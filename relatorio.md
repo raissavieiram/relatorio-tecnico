@@ -64,11 +64,11 @@ Onde `~/raissa.pem` é o caminho para o arquivo de chave privada e `34.203.200.1
 
 Após executar o comando, foi solicitado a confirmação da chave de host. Foi digitado `yes` para confirmar a chave e acessar a instância.
 
-<img src=">./imagens/image%20(10).png">
+<img src="./imagens/image%20(10).png">
 
 Após isso, foi exibida a mensagem de boas-vindas do Amazon Linux, indicando que o acesso à instância foi bem-sucedido.
 
-<img src="./imagens/imagens/image-(9).png">
+<img src="./imagens/image%20(9).png">
 
 ## Resultados
 
